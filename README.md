@@ -1,1 +1,9 @@
-# annulla
+# annulla tool
+COMPLIMENTI! HAI DISABILITATO L'ATTACCO "NINTENDO HOMEBREW".
+
+STATISTICHE
+
+Connessione a> IP 192.168.1.1
+ 
+OK SERVER "on linea"
+PERFOCR
